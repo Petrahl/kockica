@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="e8JNOF]NkY*Y-|(n4Yu[">if_i_press_shake_the_numbers_will_freeze</variable></variables><block type="device_gesture_event" id="8@0[%Up7rdPK`O}~OkQ." x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="controls_if" id="Lm;d#VQpc2:rlx[_(R61"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="0W[/C%8tWH{~vC/$Hj0@"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_show_leds" id="X1!WW)Pi*os]@~(iHoE)"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="A+U)7#=auop_WHC.FlID"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="(Lo/hwUxAB{DFWrxz0SL"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="TCUR[CpYJ-%YE!8x*?xW"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="2Vf/xw=$4_+{6x%7Vk0="><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="_^nhVUMI{e[69t.K/t}p"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
